@@ -1,3 +1,4 @@
+//Makoveienko Veronika KI-43
 #include <iostream>
 #include <vector>
 #include <thread>
